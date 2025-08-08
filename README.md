@@ -16,13 +16,6 @@
 
 ---
 
-## 📂 Öne Çıkan Projeler
-- [Collision Detection System (C#)](https://github.com/kullaniciadi/collision-detection)
-- [DNA Linked List Simulation (C++)](https://github.com/kullaniciadi/dna-linkedlist)
-- [IoT-Based Child Safety Device](https://github.com/kullaniciadi/iot-proje)
-
----
-
 ## 📊 GitHub İstatistikleri
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=simalecekazdal&layout=compact&theme=radical)
 
