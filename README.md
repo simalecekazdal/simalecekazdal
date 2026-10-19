@@ -299,26 +299,6 @@ Studied computer engineering with project experience across software development
 
 ---
 
-<!-- ═══════════════════════ GITHUB STATS ═══════════════════════ -->
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<a href="https://github.com/simalecekazdal">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=simalecekazdal&show_icons=true&theme=tokyonight&hide_border=true&hide=issues&rank_icon=github" alt="GitHub Profile Statistics"/>
-</a>
-
-<a href="https://github.com/simalecekazdal">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simalecekazdal&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages"/>
-</a>
-
-</div>
-
-<p align="center">
-  <i>Explore my repositories to see what I'm building!</i> 🚀
-</p>
-
 
 <!-- ═══════════════════════ CURRENT FOCUS ═══════════════════════ -->
 
