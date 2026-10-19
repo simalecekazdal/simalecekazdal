@@ -305,19 +305,20 @@ Studied computer engineering with project experience across software development
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=simalecekazdal&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub Statistics"/>
+<a href="https://github.com/simalecekazdal">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=simalecekazdal&show_icons=true&theme=tokyonight&hide_border=true&hide=issues&rank_icon=github" alt="GitHub Profile Statistics"/>
+</a>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simalecekazdal&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Most Used Languages"/>
-
-<br/><br/>
-
-<img width="90%" src="https://streak-stats.demolab.com?user=simalecekazdal&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
+<a href="https://github.com/simalecekazdal">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simalecekazdal&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages"/>
+</a>
 
 </div>
 
-> **Note:** GitHub language statistics are calculated from repositories accessible to the statistics service. Technologies used in private company repositories may not appear in the language chart. The Tech Stack section above lists technologies separately.
+<p align="center">
+  <i>Explore my repositories to see what I'm building!</i> 🚀
+</p>
 
----
 
 <!-- ═══════════════════════ CURRENT FOCUS ═══════════════════════ -->
 
